@@ -1,0 +1,61 @@
+table{
+    border: solid;
+    border-color: black;
+    background-color: aquamarine;
+    margin: auto}
+body{
+    background-color: darkgray
+}
+table td{
+    border: solid;
+    border-color: teal
+}
+th{
+    border: solid;
+    border-color: rgb(25, 60, 77);
+    color: rgb(104, 82, 230)
+    
+}
+h1{
+    margin-left: 250px
+}
+.mercy{
+    border-radius: 15%;
+}
+input{
+    background-color: rgb(175, 255, 235)
+}
+
+#typeDocument{
+    background-color: rgb(175, 255, 235)
+}table{
+    border: solid;
+    border-color: black;
+    background-color: aquamarine;
+    margin: auto}
+body{
+    background-color: darkgray
+}
+table td{
+    border: solid;
+    border-color: teal
+}
+th{
+    border: solid;
+    border-color: rgb(25, 60, 77);
+    color: rgb(104, 82, 230)
+    
+}
+h1{
+    margin-left: 250px
+}
+.mercy{
+    border-radius: 15%;
+}
+input{
+    background-color: rgb(175, 255, 235)
+}
+
+#typeDocument{
+    background-color: rgb(175, 255, 235)
+}
